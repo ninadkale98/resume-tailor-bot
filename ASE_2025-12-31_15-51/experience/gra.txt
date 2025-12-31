@@ -1,0 +1,4 @@
+Designed and implemented high-performance distributed inference services in C++ and CUDA for LLM workloads, optimizing memory layout, concurrency, and GPU utilization to reduce latency by 20x
+Developed low-latency communication pipelines using gRPC and isolated testing environments using Docker
+Optimized system performance via multi-threading, stream concurrency and memory management
+\textbf{Publication}: MQFQ-Sticky — Fair Queueing for Serverless GPU Functions

@@ -1,0 +1,9 @@
+\resumeSubheading
+{Software Engineer}{Jul 2020 -- Apr 2022}
+{HDFC Bank}{Bengaluru, India}
+\resumeItemListStart
+    \resumeItem{Built a scalable risk classification ML pipeline for 50K+ audio calls, deployed as cloud-hosted serverless services}
+    \resumeItem{Designed batch ETL workflows in Apache Airflow with fan-out/fan-in parallel steps and automatic retries on failure}
+    \resumeItem{Constructed database schemas \& replaced LINQ with T-SQL stored procedures resulting in 25\% increase in performance}
+    \resumeItem{Tech: Python, Apache Airflow, Docker, Kubernetes, PostgreSQL, Redis, Apache Kafka, Elasticsearch, BERT}
+\resumeItemListEnd

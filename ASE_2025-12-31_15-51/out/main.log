@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  31 DEC 2025 02:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  31 DEC 2025 15:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -365,12 +365,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
 )
 (./experience/project990.tex) (./experience/apporch.tex) (./experience/hdfc.tex
-) (./experience/cubs.tex
-Overfull \hbox (51.53627pt too wide) in alignment at lines 3--3
-[] [] 
- []
-
-) (./experience/gra.tex) (./projects/online_coding_platform.tex
+) (./experience/cubs.tex) (./experience/gra.tex)
+(./projects/online_coding_platform.tex
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -399,11 +395,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  11022 strings out of 473190
  174948 string characters out of 5715801
- 614684 words of memory out of 5000000
+ 613684 words of memory out of 5000000
  34113 multiletter control sequences out of 15000+600000
  564373 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,11n,82p,318b,727s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 80i,11n,82p,295b,727s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -411,7 +407,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr
 /local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on out/main.pdf (2 pages, 90324 bytes).
+Output written on out/main.pdf (2 pages, 89543 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
