@@ -4,3 +4,8 @@ the ensemble model comprised of BERT for sentiment analysis,  domain classificat
 
 created hyper-personalized recommendation engine using historical purchase data of customers to create a product set to pitch to customers for the sales team
 this hyper personalised recommendation engine was built by using xgboost and deployed on AWS using sagemaker
+
+
+Architected an end-to-end NLP pipeline processing 50k+ daily call logs, orchestrating AWS Transcribe and a custom ensemble model (BERT + RAKE) to automate compliance monitoring and sentiment analysis
+Developed a hyper-personalized recommendation engine using XGBoost on customer transaction history, deployed via AWS SageMaker, which increased sales conversion rates by 15%."
+Designed a multi-stage inference workflow that fused sentiment scores with keyword extraction to categorize call intent, reducing manual QA effort by 40%

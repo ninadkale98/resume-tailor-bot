@@ -11,4 +11,10 @@ Was made product owner of this pipeline and helped other teams integrate these s
 • Core Technologies: Python, PyTorch, Transformers, GPT, BERT, AWS, ONNX, TorchServe, Spring Boot, 
 
 
+Led a 4-member ML team for ContractAI, a flagship CLM product, driving $34MM revenue in FY 2024 by automating document extraction for enterprise clients
+Fine-tuned GPT-3.5 for document classification using a human-in-the-loop active learning pipeline, querying experts only for samples with high entropy/low confidence, reaching 93% accuracy.
+Trained RoBERTa models for domain-specific NER and optimized inference using TorchScript and ONNX Runtime, reducing P99 latency by 28%.
 
+see if u like anything below 
+Implemented a model monitoring system (using Prometheus/Grafana) to detect concept drift in contract layouts, automatically triggering retraining pipelines when accuracy dropped below 85%
+Generated synthetic training data using GANs and text augmentation to handle rare contract types, improving model robustness on long-tail document classes by 15%.

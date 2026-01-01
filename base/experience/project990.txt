@@ -32,3 +32,18 @@ Any “hashtags” are usually human-readable tags from categories/keywords used
 3. LLM task
 
 SDE????
+
+
+
+Developed a Graph Neural Network (GNN) pipeline to generate node embeddings (using Node2Vec) for the 5M+ node dataset, enabling a similarity search feature that improved recommendation relevance by 20%
+Architected a real-time feature extraction pipeline that aggregates 2nd-degree neighbor attributes from the graph, reducing feature availability latency for downstream inference models from minutes to milliseconds.
+Integrated Semantic Search capabilities by generating vector embeddings for node metadata using BERT, enabling hybrid search (Graph traversal + Vector similarity) to handle complex natural language queries.
+
+
+
+
+Potential point 
+
+Built a GraphSAGE-based recommender system to predict funding opportunities between 5M+ foundations and nonprofits, utilizing inductive message passing to generate embeddings for unseen nodes.
+Fine-tuned a BERT model on 6 million mission statements to classify organizations into NTEE categories, achieving top-5 label accuracy of 92%
+Developed an explainability layer that surfaces key contributing factors (e.g., shared cause areas, historical funding paths) for each recommendation, increasing client trust and adoption.

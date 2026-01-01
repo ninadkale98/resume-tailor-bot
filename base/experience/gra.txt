@@ -3,3 +3,10 @@ Developed low-latency communication pipelines using gRPC and isolated testing en
 Optimized system performance via multi-threading, stream concurrency and memory management
 \textbf{Publication}: MQFQ-Sticky — Fair Queueing for Serverless GPU Functions
 Built a differentiable queueing and GPU scheduling simulator in JAX to learn optimal MQFQ-Sticky parameters via gradient descent, replacing manual tuning and improving fairness–latency Pareto efficiency.
+
+
+
+Engineered distributed inference services in C++/CUDA, optimizing memory layout and implementing kernel fusion to reduce LLM inference latency by 20x.
+Authored 'MQFQ-Sticky' (Publication): Developed a differentiable GPU scheduling simulator in JAX, utilizing gradient descent to auto-tune queue parameters, achieving superior fairness-latency Pareto efficiency compared to manual heuristics.
+Optimized KV-Cache management for long-context LLMs using PagedAttention techniques, reducing memory fragmentation and enabling 4x larger batch sizes
+mplemented Tensor Parallelism strategies to shard 70B+ parameter models across multiple GPUs, ensuring linear scaling of inference throughput
