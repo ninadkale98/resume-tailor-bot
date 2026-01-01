@@ -1,0 +1,10 @@
+Engineered high-performance distributed inference services in C++ and CUDA for LLM workloads, implementing Tensor Parallelism and PagedAttention to increase throughput by 20x.
+Developed low-latency gRPC communication pipelines and isolated testing environments using Docker, ensuring thread-safe execution for concurrent requests.
+Optimized GPU utilization via CUDA Streams and Kernel Fusion, reducing memory
+
+
+Implemented INT8/FP16 quantization techniques for LLaMA/GPT models, reducing VRAM usage by 50% while maintaining 99% accuracy on benchmark datasets
+Designed a dynamic batching scheduler that groups incoming requests based on sequence length, maximizing GPU saturation and reducing tail latency (p99) by 40%.
+Wrote custom CUDA kernels for FlashAttention, bypassing standard PyTorch overhead to accelerate the attention mechanism by 3x during inference
+
+

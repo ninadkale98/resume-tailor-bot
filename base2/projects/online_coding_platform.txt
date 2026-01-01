@@ -4,3 +4,5 @@ Leveraged Azure Container Apps, Static Web Apps, and Blob Storage for scalable d
 Automated provisioning and redeployment using Terraform and CI/CD pipelines.
 Integrated an in-browser VS Code IDE for secure code execution in isolated containers.
 
+Developed an automated grading system that uses AST analysis and unit tests to evaluate user code submissions for correctness and efficiency
+Implemented a code plagiarism detector using MOSS-style fingerprinting and vector similarity, flagging duplicate submissions across the user base.

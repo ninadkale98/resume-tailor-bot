@@ -1,0 +1,15 @@
+Built a scalable risk classification ML pipeline for 50K+ audio calls, deployed as cloud-hosted serverless services
+Designed batch ETL workflows in Apache Airflow with fan-out/fan-in parallel steps and automatic retries on failure
+Constructed database schemas & replaced inefficient ORM queries with optimized SQL stored procedures, resulting in 25% increase in performance.
+
+
+Tech: Python, Apache Airflow, Docker, Kubernetes, PostgreSQL, Redis, Apache Kafka, Elasticsearch, BERT
+
+
+
+suggestions to add - 
+
+must add - Orchestrated an NLP pipeline that processed transcribed audio logs using BERT embeddings to detect semantic risk patterns, automating compliance checks for 100% of daily calls.
+
+Indexed model predictions and call metadata in Elasticsearch, enabling the compliance team to perform full-text search and identify high-risk conversations with sub-second latency.
+Fine-tuned a pre-trained BERT model on domain-specific financial datasets to classify call sentiment, achieving an F1-score of 0.89 and reducing false positives by 

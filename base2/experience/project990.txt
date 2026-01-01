@@ -1,0 +1,13 @@
+- Achieved 8x speedup in query response time in graph database with over a 5M node & 50M relationship by adding concurrent
+traversal start points, introducing caching and tuning indexes and memory settings of the database
+
+this poin of no use also The "80%" Claim: A flat 80% reduction is a massive number.
+- Implemented CI/CD pipelines with GitHub Actions to test & deploy .NET 5 microservices on cutting deploy time 80%.
+
+
+Developed a Graph Neural Network (GNN) pipeline to generate node embeddings (using Node2Vec) for the 5M+ node dataset, enabling a similarity search feature that improved recommendation relevance by 20%
+Architected a real-time feature extraction pipeline that aggregates 2nd-degree neighbor attributes from the graph, reducing feature availability latency for downstream inference models from minutes to milliseconds.
+Integrated Semantic Search capabilities by generating vector embeddings for node metadata using BERT, enabling hybrid search (Graph traversal + Vector similarity) to handle complex natural language queries.
+
+
+- Tech: .NET 5 (ASP.NET Core), Python, AWS, Gremlin, Docker, Kubernetes, GitHub Actions, REST, JSON

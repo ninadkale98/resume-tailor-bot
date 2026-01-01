@@ -4,3 +4,9 @@ Integrated microservices with PostgreSQL \& DynamoDB using AWS EC2, S3 improving
 Automated build processes using Azure Docker and Kubernetes service, implementing CI/CD pipeline to ensure quality
 Tech: Java, Spring Boot, PostgreSQL, DynamoDB, AWS, Docker, Kubernetes, React, SQL, NoSQL, Restful API
 
+
+
+Led a team of 3 engineers in re-architecting a scalable ML data ingestion engine, driving $1M in ARR and serving as the primary system owner.
+Engineered robust Java Spring Boot microservices, designing secure REST APIs with OAuth2 authentication and strict JSON contract validation.
+Architected a hybrid data layer using PostgreSQL for transactional data and DynamoDB for high-throughput logs, deployed on AWS (EC2, S3) for 99.9% availability.
+Automated CI/CD pipelines using Docker and Kubernetes, reducing release cycles from days to hours.

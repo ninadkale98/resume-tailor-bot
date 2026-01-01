@@ -1,0 +1,11 @@
+Developed a MERN stack web app with FastAPI services for catalogue, booking, and role-based access.}
+Implemented CI/CD with GitHub Actions and automated testing for continuous delivery.}
+Collaborated in Agile/Scrum sprints using Jira for task tracking and sprint planning.}
+
+
+The Mismatch: You are applying for Machine Learning Engineer roles, but this is a pure Web Development project. It adds very little value to your MLE profile as currently written.
+
+
+Engineered a semantic search engine for the library catalogue using Elasticsearch/Vector Search, enabling users to find books by concept rather than just keywords.
+Integrated a collaborative filtering recommendation system (using Python/Scikit-learn) that suggests books based on user borrowing history
+Deployed the application on AWS Lambda with a FastAPI backend, designing a scalable architecture to handle concurrent user requests
