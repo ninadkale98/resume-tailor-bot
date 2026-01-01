@@ -1,6 +1,14 @@
-Led 3 engineers in re-architecture of scalable ML data ingestion engine generating \$1M ARR and was assigned owner
-Implemented Java REST APIs with Spring Boot, integrating auth, input validation, and JSON contracts.
-Integrated microservices with PostgreSQL \& DynamoDB using AWS EC2, S3 improving scalability \& reliability.
-Automated build processes using Azure Docker and Kubernetes service, implementing CI/CD pipeline to ensure quality
-Tech: Java, Spring Boot, PostgreSQL, DynamoDB, AWS, Docker, Kubernetes, React, SQL, NoSQL, Restful API
+
+Points in app Orchid
+• Led a 4-member ML team for ContractAI, a flagship product offering in CLM space, driving $34MM revenue in FY 2022 (Spot award: Employee of the Quarter)
+Built a YOLOv4-based document layout analysis model to extract key fields from PDFs (titles/headers/tables/figures), achieving 0.73 mAP on PubLayNet and 8× higher throughput vs. the Caffe2 baseline.
+Fine-tuned GPT-3 for document classification using a human-in-the-loop active learning loop, reaching 93% accuracy on a held-out test set. human came in for ow confidence threshold, high entropy, small margin between top classes.
+•Trained RoBERTa models using PyTorch for a domain-specific NER engine and Optimized inference using TorchScript and ONNX Runtime reducing response latency of NER engine by 28%
+Implemented multimodal document layout analysis pipeline over 1M+ or 1M+ PDFs across 2 enterprise clients using multimodal vision-text models
+Integrated Python inference services with Spring Boot API gateway for authentication, orchestration, and enterprise delivery.
+Was made product owner of this pipeline and helped other teams integrate these services
+
+• Core Technologies: Python, PyTorch, Transformers, GPT, BERT, AWS, ONNX, TorchServe, Spring Boot, 
+
+
 

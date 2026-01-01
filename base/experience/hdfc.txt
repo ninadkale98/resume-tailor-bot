@@ -1,4 +1,6 @@
-Built a scalable risk classification ML pipeline for 50K+ audio calls, deployed as cloud-hosted serverless services
-Designed batch ETL workflows in Apache Airflow with fan-out/fan-in parallel steps and automatic retries on failure
-Constructed database schemas \& replaced LINQ with T-SQL stored procedures resulting in 25\% increase in performance
-Tech: Python, Apache Airflow, Docker, Kubernetes, PostgreSQL, Redis, Apache Kafka, Elasticsearch, BERT
+I set up a pipeline that ingested raw 50,000 call recordings per day, transcribed them using AWS services
+after recieving the text transcript of these calls, i fed them to an ensemble model I had created
+the ensemble model comprised of BERT for sentiment analysis,  domain classification using deep learning and keyword extraction using rake
+
+created hyper-personalized recommendation engine using historical purchase data of customers to create a product set to pitch to customers for the sales team
+this hyper personalised recommendation engine was built by using xgboost and deployed on AWS using sagemaker

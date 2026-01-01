@@ -1,0 +1,6 @@
+
+Built a full-stack app with React frontend and FastAPI backend, fully containerized and deployed on Azure.
+Leveraged Azure Container Apps, Static Web Apps, and Blob Storage for scalable deployment.
+Automated provisioning and redeployment using Terraform and CI/CD pipelines.
+Integrated an in-browser VS Code IDE for secure code execution in isolated containers.
+

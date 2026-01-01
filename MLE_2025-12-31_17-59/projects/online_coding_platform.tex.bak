@@ -1,0 +1,8 @@
+\resumeProjectHeading
+    {\textbf{Online Coding Platform} $|$ Website}{Open Source Project}
+    \resumeItemListStart
+      \resumeItem{Built a full-stack app with React frontend and FastAPI backend, fully containerized and deployed on Azure.}
+      \resumeItem{Leveraged Azure Container Apps, Static Web Apps, and Blob Storage for scalable deployment.}
+      \resumeItem{Automated provisioning and redeployment using Terraform and CI/CD pipelines.}
+      \resumeItem{Integrated an in-browser VS Code IDE for secure code execution in isolated containers.}
+    \resumeItemListEnd

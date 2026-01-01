@@ -1,0 +1,6 @@
+- Achieved 8x speedup in query response time over a 5M node & 50M relationship graph database by adding concurrent
+traversal start points, using hot path, introducing caching and tuning indexes and memory settings of the database
+
+- Implemented CI/CD pipelines with GitHub Actions to test & deploy .NET 5 microservices on cutting deploy time 80%.
+
+- Tech: .NET 5 (ASP.NET Core), Python, AWS, Gremlin, Docker, Kubernetes, GitHub Actions, REST, JSON
