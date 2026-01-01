@@ -1,0 +1,8 @@
+\resumeProjectHeading
+    {\textbf{GPU Software Kernel Development} $|$ Qualcomm}{Engineering Group}
+    \resumeItemListStart
+      \resumeItem{Developed and optimized high-performance GPU drivers for Adreno GPUs, enhancing GPGPU operations for Machine Learning and Image Processing.}
+      \resumeItem{Collaborated with hardware designers to improve and document hardware/software interfaces, ensuring seamless integration with the graphics software stack on Android, Linux, and Windows.}
+      \resumeItem{Implemented and maintained APIs utilizing OpenCL and Vulkan to accelerate Machine Learning operations for inference and training on the GPU.}
+      \resumeItem{Wrote comprehensive documentation and unit tests for GPU drivers and frameworks, facilitating collaboration with external developers and OEM partners.}
+    \resumeItemListEnd

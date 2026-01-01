@@ -1,0 +1,3 @@
+Built RAG pipeline with Selenium scraping and integrated RAG \& VLM on robot Nao for multimodal conversations
+Tech: FAISS, LangChain, GPT-4, Selenium, Django, Flask, Python, chromaDB
+

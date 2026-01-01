@@ -1,0 +1,34 @@
+- Achieved 8x speedup in query response time over a 5M node & 50M relationship graph database by adding concurrent
+traversal start points, using hot path, introducing caching and tuning indexes and memory settings of the database
+
+MLE
+
+1. head of network division and for each foundation I do inference and present the 
+viable options to other teams for verification and give explainibity to the client 
+about how we arrived to this decision.
+
+How? is listed below:
+We collect past data: which foundations funded which nonprofits.
+
+We store that as a graph: nodes = foundations/nonprofits, edges = “funded before.”
+
+Each node also has info (name, location, cause area like NTEE = nonprofit category).
+
+We convert that info into embeddings (numbers) using a text model, so similar orgs look similar in vector space.
+
+Then we train a Graph Neural Network (GraphSAGE) on the graph.
+
+GraphSAGE works by repeatedly mixing a node’s vector with its neighbors’ vectors (learning “who you’re connected to matters”).
+
+After a few mixing steps, every foundation/nonprofit gets a new “smart” embedding that reflects its history + neighborhood.
+
+A small predictor then takes (foundation embedding, nonprofit embedding) and outputs a match score.
+
+For a given foundation, we compute scores for many nonprofits and rank them to recommend the best matches.
+
+Any “hashtags” are usually human-readable tags from categories/keywords used to explain the recommendation—not literal hashtags inside the neurons.
+
+2. trained a bert tokeninzer and a bert model on 6 million foundations' mission statements to find top 5 labels to classify them
+3. LLM task
+
+SDE????

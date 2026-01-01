@@ -1,0 +1,6 @@
+Led 3 engineers in re-architecture of scalable ML data ingestion engine generating \$1M ARR and was assigned owner
+Implemented Java REST APIs with Spring Boot, integrating auth, input validation, and JSON contracts.
+Integrated microservices with PostgreSQL \& DynamoDB using AWS EC2, S3 improving scalability \& reliability.
+Automated build processes using Azure Docker and Kubernetes service, implementing CI/CD pipeline to ensure quality
+Tech: Java, Spring Boot, PostgreSQL, DynamoDB, AWS, Docker, Kubernetes, React, SQL, NoSQL, Restful API
+

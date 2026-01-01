@@ -1,0 +1,9 @@
+\resumeSubheading
+{Graduate Research Assistant}{Aug 2024 -- May 2025}
+{Prof. Prateek Sharma}{Indiana University}
+\resumeItemListStart
+    \resumeItem{Architected and implemented high-performance distributed inference services in C++ and CUDA, optimizing memory layout and GPU utilization, achieving a latency reduction of 20x for Machine Learning workloads.}
+    \resumeItem{Developed low-latency communication pipelines utilizing gRPC, enhancing data transfer efficiency for GPGPU applications.}
+    \resumeItem{Optimized system performance through multi-threading, stream concurrency, and advanced memory management techniques to meet rigorous performance standards.}
+    \resumeItem{\textbf{Publication}: MQFQ-Sticky — Fair Queueing for Serverless GPU Functions, focusing on optimizing GPU resource allocation.}
+\resumeItemListEnd

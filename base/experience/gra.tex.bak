@@ -1,0 +1,9 @@
+\resumeSubheading
+{Graduate Research Assistant}{Aug 2024 -- May 2025}
+{Prof. Prateek Sharma}{Indiana University}
+\resumeItemListStart
+    \resumeItem{Designed and implemented high-performance distributed inference services in C++ and CUDA for LLM workloads, optimizing memory layout, concurrency, and GPU utilization to reduce latency by 20x}
+    \resumeItem{Developed low-latency communication pipelines using gRPC and isolated testing environments using Docker}
+    \resumeItem{Optimized system performance via multi-threading, stream concurrency and memory management}
+    \resumeItem{\textbf{Publication}: MQFQ-Sticky — Fair Queueing for Serverless GPU Functions}
+\resumeItemListEnd

@@ -1,0 +1,4 @@
+Developed a MERN stack web app with FastAPI services for catalogue, booking, and role-based access.}
+Implemented CI/CD with GitHub Actions and automated testing for continuous delivery.}
+Collaborated in Agile/Scrum sprints using Jira for task tracking and sprint planning.}
+
